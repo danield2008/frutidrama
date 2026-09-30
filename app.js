@@ -29,6 +29,19 @@
 ["Misterio","El coco que no aparecía en los espejos","Todos podían verlo menos los espejos.","52 s"],
 ["Drama","La naranja que escuchó su propio funeral","Escuchó una conversación sobre su muerte antes de que ocurriera.","56 s"],
 ["Humor","La uva que inventó un día extra","La uva decidió que siete días por semana eran demasiado pocos.","38 s"]
+,
+["Misterio","El mensaje que llegó desde mañana","El móvil mostró un mensaje enviado por ella misma… a las 08:42 del día siguiente.","58 s"],
+["Drama","La naranja que llamó a emergencias","Llamó para avisar de un accidente. El operador le dio la dirección de su propia casa.","1 min"],
+["Misterio","El ascensor del piso 0","El edificio empezaba en el 1. Aun así, cada noche aparecía un botón nuevo.","54 s"],
+["Humor","El melocotón recibió una multa del futuro","La sanción decía cuánto pagaría por un delito que todavía no había cometido.","49 s"],
+["Misterio","La fresa tenía un vecino que no existía","Todos juraban que el piso de al lado estaba vacío. Entonces alguien llamó tres veces.","57 s"],
+["Drama","El limón recordó una vida que nadie vivió","Describía una familia, una casa y una noche que los demás aseguraban que jamás ocurrieron.","1 min"],
+["Misterio","La uva y el mensaje borrado","Antes de borrarlo, alcanzó a leer una sola frase: «No abras la cámara frontal».","52 s"],
+["Futuro","La piña fue despedida por su versión futura","Su jefe le enseñó un correo firmado por ella misma explicando por qué debía marcharse.","55 s"],
+["Futuro","La sandía escuchó el timbre de la semana siguiente","El mismo timbre sonó cada noche a la misma hora. Hasta que un jueves escuchó su nombre.","59 s"],
+["Drama","El kiwi apareció en la foto familiar","Nadie recordaba haberlo invitado, pero aparecía en todas las fotografías desde 2004.","1 min"],
+["Humor","El mango compró cinco minutos","Un vendedor le ofreció exactamente cinco minutos extra al día. La factura llegó a las 00:00.","47 s"],
+["Misterio","La cereza recibió un audio de su funeral","La grabación duraba once segundos. La última voz que se escuchaba era la suya.","1 min"]
 ];
 const dialogues=[
 "—¿Quién ha dejado esto? —preguntó la fresa. —No lo sé —respondió el mango. Ella abrió el sobre: «El mango te está mintiendo». —La foto tiene fecha de mañana. El móvil sonó. —Contesta —dijo él. —¿Quién es? —Alguien que sabe lo que hicimos anoche.",
@@ -61,6 +74,19 @@ const dialogues=[
 "—Mírate al espejo —dijo el coco. No había reflejo. En un laboratorio encontró una frase: «El espejo no muestra lo que eres». Su reflejo apareció y señaló una puerta. Detrás había decenas de versiones de él. Todos hablaron a la vez: —No tengas miedo. La primera vez tampoco lo tuviste.",
 "—¿Por qué suena música de funeral? La naranja encontró una grabadora fechada tres días después. Su propia voz dijo: «Gracias por venir». En una fotografía del funeral había una fruta que nadie conocía. El móvil vibró: «No vayas al funeral». Otro mensaje: «Ve hoy».",
 "—He inventado un octavo día —dijo la uva. —Eso no existe. El calendario cambió. Llegó un mensaje: «Gracias por crear el día que faltaba». Apareció una fruta idéntica a ella. —Soy quien creó el primer día extra. —Entonces te toca crear el segundo."
+,
+"—Mira esto —dijo ella. En su móvil había un mensaje enviado desde su propio número. —¿Qué pone? —«Mañana, 08:42. No contestes a la puerta». —Pero mañana todavía no ha llegado. El reloj cambió. 08:42. El mensaje desapareció. Tres golpes sonaron en la puerta. —¿Quién es? —preguntó su amigo. Desde fuera respondió su propia voz: —Soy tú. Y ya he llegado tarde una vez.",
+"—Necesito ayuda —dijo la naranja al llamar a emergencias. —¿Qué ocurre? —Un coche ha tenido un accidente en la avenida 12. El operador miró la pantalla. —¿Está segura de la dirección? —Sí. —La dirección que acaba de dar es la de su propia casa. La naranja se quedó callada. Desde el piso de arriba llegó un golpe. —¿Hay alguien con usted? —preguntó el operador. —No. —Entonces no cuelgue. Acaba de entrar una llamada desde su mismo teléfono.",
+"—Ese botón no estaba ayer —dijo la fresa. El ascensor tenía plantas 1 a 12 y, debajo, un pequeño «0». Lo pulsó. Las puertas se cerraron. —¿A qué planta vamos? Una voz salió del altavoz: —A donde empezaste. Las puertas se abrieron a un pasillo idéntico al suyo, pero lleno de fotografías antiguas. En la última aparecía ella entrando en el ascensor. Debajo había una fecha de mañana.",
+"—Me ha llegado una multa —dijo el melocotón. —¿Por aparcar? —No. «Conducir un coche sin haberlo comprado». La fecha del delito era el viernes siguiente. —Eso es imposible. —Mira la firma. Era la suya. Llamó al número del documento. —Puede reclamar después de cometer el delito —respondieron. —¿Y qué se supone que voy a hacer? —Todavía no lo sabemos. Pero tenemos una grabación suya haciéndolo.",
+"—El piso de al lado está vacío —dijo el portero. La fresa llamó una vez. Silencio. Dos veces. Nada. Tres golpes. Desde dentro alguien respondió: —No llames otra vez. —¿Quién eres? —Tu vecina. —Pero este piso está vacío. —Lo estará mañana. Debajo de la puerta apareció un sobre. Dentro había una copia de su propio contrato de alquiler. En una esquina estaba escrita una fecha: «Mudanza: mañana».",
+"—Recuerdo haber vivido aquí —dijo el limón. —Nunca has estado aquí —respondió su hermana. —Sí. Tuvimos una mesa junto a esa ventana. Había un perro. Tú llevabas una camiseta verde. Su hermana palideció. —Eso no ocurrió. El limón sacó el móvil. Había decenas de fotos de aquella vida. La misma familia. La misma casa. Nadie reconocía a nadie. En la última foto había una frase: «Cuando recuerdes esto, también recordarás por qué lo borramos».",
+"—¿Qué decía el mensaje? —preguntó el melocotón. —Solo alcancé a leer: «No abras la cámara frontal». La uva abrió la cámara. Al principio apareció su cara. Después, detrás de ella, apareció otra versión de sí misma. —¿Quién es? La imagen movió los labios. El móvil reprodujo un audio: —Si me ves, ya es demasiado tarde.",
+"—¿Por qué me despides? —preguntó la piña. Su jefe giró el portátil. —Este correo. Lo firmaste tú. «Debo abandonar la empresa antes de que ocurra el accidente». —Yo no he escrito eso. —Lo enviarás mañana. —¿Y si no lo hago? —Entonces nunca sabremos qué ocurre el viernes. La piña miró la pantalla. Había una segunda línea: «No permitas que me contradiga».",
+"—Tocaron otra vez —dijo la sandía. —¿A qué hora? —Las 22:17. Cada noche a la misma hora. Esa vez oyó una voz: —Sandía. Miró el calendario. Era miércoles. El timbre volvió a sonar. Esta vez la voz dijo: —Soy tú. Y no tenemos toda la semana.",
+"—¿Quién es este kiwi? —preguntó la niña mirando una foto de 2004. —No lo sé —respondió su madre. El mismo kiwi aparecía en todas las fotografías, cada año, un poco más cerca de la familia. En la última, tomada ayer, aparecía al lado de la niña. Detrás había una nota: «Por fin ya me recuerdas».",
+"—Quiero cinco minutos más al día —dijo el mango. El vendedor sacó una tarjeta. —Solo cinco. A medianoche su reloj se detuvo durante cinco minutos. Todo el mundo quedó congelado menos él. Al volver el tiempo, recibió una factura. «Cinco minutos utilizados». —¿Quién me los ha vendido? El vendedor respondió por teléfono: —Nosotros no vendemos tiempo. Solo cobramos por el que falta.",
+"—Escucha esto —dijo la cereza. Era un audio de once segundos. Se oía música, gente llorando y una voz diciendo: «No dejes que venga sola». —¿De quién es? —preguntó su amiga. La cereza reconoció la voz final. Era la suya. El audio terminaba con tres golpes. Esa noche alguien llamó a la puerta. —¿Quién es? Desde fuera respondió: —Tú, pero no abras. Ya sé cómo termina el audio."
 ];
 const titles=stories.map(s=>s[1]);
 let current=0;
