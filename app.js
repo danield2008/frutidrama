@@ -1,4 +1,4 @@
-<script>const stories=[
+const stories=[
 ["Drama","La fresa que descubrió el secreto del mango","Una cena tranquila termina cuando aparece un sobre que nadie esperaba.","45 s"],
 ["Misterio","El limón que desapareció a las 03:17","Todas las cámaras mostraron la misma imagen. Ninguna explica qué ocurrió después.","52 s"],
 ["Humor","El plátano pidió un aumento","El lunes empezó normal. El martes, el plátano decidió que ya era suficiente.","39 s"],
@@ -99,4 +99,3 @@ function closeStory(){reader.classList.remove('open');reader.setAttribute('aria-
 document.addEventListener('click',e=>{const cardEl=e.target.closest('[data-i]');if(cardEl&&cardEl.closest('.grid')){openStory(Number(cardEl.dataset.i));return}const b=e.target.closest('#close');if(b){closeStory();return}const n=e.target.closest('#next');if(n){openStory((current+1)%stories.length);return}const m=e.target.closest('#more button');if(m){openStory(Number(m.dataset.i));return}const f=e.target.closest('.filter');if(f){document.querySelectorAll('.filter').forEach(x=>x.classList.remove('active'));f.classList.add('active');render();return}if(e.target===reader)closeStory()});
 document.addEventListener('keydown',e=>{if(e.key==='Escape')closeStory();const c=e.target.closest?.('[data-i]');if(c&&(e.key==='Enter'||e.key===' ')){e.preventDefault();openStory(Number(c.dataset.i))}});
 document.querySelectorAll('.filter').forEach(b=>b.addEventListener('click',e=>e.stopPropagation()));search.addEventListener('input',render);document.getElementById('theme').addEventListener('click',()=>document.body.classList.toggle('light'));render();renderTrend();
-</script>
